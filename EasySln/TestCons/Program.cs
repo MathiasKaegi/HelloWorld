@@ -12,6 +12,7 @@ namespace TestCons
         {
             Console.WriteLine("Hi Git");
             Console.WriteLine("Logging");
+            Console.WriteLine("Noch eine Zeile");
         }
     }
 }
