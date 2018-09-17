@@ -11,6 +11,7 @@ namespace TestCons
         static void Main(string[] args)
         {
             Console.WriteLine("Hi Git");
+            Console.WriteLine("Logging");
         }
     }
 }
